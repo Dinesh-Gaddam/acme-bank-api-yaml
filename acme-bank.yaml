@@ -20,7 +20,7 @@ paths:
           format: JSON
       responses:
         '200':
-          description: Request was successful
+          description: Request was successful1
           schema:
             $ref: '#/definitions/AccessToken'
       deprecated: false
