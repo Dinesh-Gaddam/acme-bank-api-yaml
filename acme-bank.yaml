@@ -3,7 +3,7 @@ paths:
     get:
       tags:
         - User
-      summary: Find a related item by id for accessTokenss.
+      summary: Find a related item by id for accessTokens.
       operationId: User.prototype.__findById__accessTokens
       parameters:
         - name: fk
